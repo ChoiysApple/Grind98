@@ -9,6 +9,7 @@ Study plans by [Grind75](https://www.techinterviewhandbook.org/grind75/)
 |2025-05-28|[1. Two Sum](https://leetcode.com/problems/two-sum/)|[Brute-force](./Solution/Week1/Two_sum(brute_force).swift)|[HashMap](./Solution/Week1/Two_Sum(HashMap).swift)|
 |2025-06-01|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|           |[Valid Parentheses](./Solution/Easy/Valid%20Parentheses.swift)|
 |2025-06-02|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|       |[Merge Two Sorted Lists](./Solution/Easy/Merge%20Two%20Sorted%20Lists.swift)|
-|2025-06-00|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Time Limit](./Solution/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock(Time%20Limit).swift)|[DP + Greedy](./Solution/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock(DP).swift)|
+|2025-06-06|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Time Limit](./Solution/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock(Time%20Limit).swift)|[DP + Greedy](./Solution/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock(DP).swift)|
+|2025-06-08|[125. Valid Palindrome](Link)|       |[Valid Palindrome](./Solution/Easy/Valid%20Palindrome.swift)|
 
 <!-- |2025-06-00|[Title](Link)|[Title](path)|[Title](path)| -->
