@@ -13,5 +13,6 @@ Study plans by [Grind75](https://www.techinterviewhandbook.org/grind75/)
 |2025-06-08|[125. Valid Palindrome](Link)|       |[Valid Palindrome](./Solution/Easy/Valid%20Palindrome.swift)|
 |2025-06-08|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|    |[Invert Binary Tree](./Solution/Easy/Invert%20Binary%20Tree.swift)|
 |2025-06-15|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|  |[Hash Table](./Solution/Easy/Valid%20Palindrome.swift)|
+|2025-06-15|[704. Binary Search](https://leetcode.com/problems/binary-search/)| |[Binary Search](./Solution/Easy/Binary%20Search.swift)|
 
 <!-- |2025-06-00|[Title](Link)|[Title](path)|[Title](path)| -->
