@@ -15,5 +15,6 @@ Study plans by [Grind75](https://www.techinterviewhandbook.org/grind75/)
 |2025-06-15|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|  |[Hash Table](./Solution/Easy/Valid%20Palindrome.swift)|
 |2025-06-15|[704. Binary Search](https://leetcode.com/problems/binary-search/)| |[Binary Search](./Solution/Easy/Binary%20Search.swift)|
 |2025-06-20|[733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)|   |[BFS](./Solution/Easy/Flood%20Fill.swift)|
+|2025-06-27|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Brute-Force](./Solution/Medium/Maximum%20Subarray%20(Brute-Force).swift)|[Kadane's Algorithm](./Solution/Medium/Maximum%20Subarray%20(Kadane's%20Algorithm).swift)|
 
 <!-- |2025-06-00|[Title](Link)|[Title](path)|[Title](path)| -->
